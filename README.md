@@ -8,7 +8,7 @@ disini kita disuruh memilih tanaman
 # tampilan seteleh memilih
 ![](p2.PNG)
 # tampilan sebelum disiram
-
+![](p7.PNG)
 # tampilan setelah disiram 
 ![](p3.PNG)
 # widget butuh disiram
